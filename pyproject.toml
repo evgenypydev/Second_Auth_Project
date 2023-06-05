@@ -2,7 +2,7 @@
 name = "auth"
 version = "0.1.0"
 description = ""
-authors = ["Pavel Ivanov <pavel.ivanov.060988@gmail.com>"]
+authors = ["Evgeny Korolev <ytrokinterteiment@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -11,6 +11,10 @@ django = "^4.2.1"
 djangorestframework = "^3.14.0"
 python-dotenv = "^1.0.0"
 djoser = "^2.2.0"
+psycopg2 = "^2.9.6"
+gunicorn = "^20.1.0"
+psycopg2-binary = "^2.9.6"
+django-cors-headers = "^4.0.0"
 
 
 [build-system]
