@@ -2,7 +2,7 @@
 name = "auth"
 version = "0.1.0"
 description = ""
-authors = ["Pavel Ivanov <pavel.ivanov.060988@gmail.com>"]
+authors = ["Evgeny Korolev <ytrokinterteiment@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
